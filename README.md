@@ -1,6 +1,6 @@
 # ASP.NET Core WebApi - 🔧Inyección de Dependencias🧰
 
-En este [video]() veremos los principios de la Inyección de Dependecias y como aplicarla a Asp.Net Core.
+En este [video](https://youtu.be/rAP0RWLmko4) veremos los principios de la Inyección de Dependecias y como aplicarla a Asp.Net Core.
 
 ## Links
 - [Principios SOLID de la POO](https://es.wikipedia.org/wiki/SOLID)
